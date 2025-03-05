@@ -31,8 +31,8 @@ menor :<
 igual : =
 */
 
-//console.log("10 é maior que 20")
-//console.log(10 >20 )
+console.log("10 é maior que 20")
+console.log(10 >20 )
 
 let comparacaoDois = (15 < 100)
 //console.log("Quinze é menor do que 100?" + comparacaoDois)
